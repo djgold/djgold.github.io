@@ -1,0 +1,16 @@
+body{
+  background:url("icebackground.jpg");
+  font-family: "Kalam",monospace;
+  border:2px solid Black;
+}
+h1{
+  color:rgb(60,0,200);
+
+}
+h1.indent{
+  padding:30px
+}
+p{
+  color:rgb(60,0,200);
+  border:2px solid rgb(40,110,255);
+  font-size:30px;
